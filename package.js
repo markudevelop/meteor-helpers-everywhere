@@ -1,6 +1,6 @@
 Package.describe({
   summary: "Use template helpers at template events, onCreated, onRendered, onDestroyed or plain JavaScript code",
-  version: '0.0.1',
+  version: '0.0.3',
   name: 'voidale:helpers-everywhere',
   git: 'https://github.com/voidale/meteor-helpers-everywhere'
 });

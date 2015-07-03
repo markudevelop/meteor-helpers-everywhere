@@ -13,7 +13,7 @@ A simple, package to make it easy use template helpers at template events, onCre
 ## Meteor.helpers(helperName, template) - Client only
 helperName: string
 
-template: template instance object or a template name string.
+template (optional): template instance object or a template name string.
 
 returns: helper function, so you can use .call(), .apply(), .bind() as you need it.
 
