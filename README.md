@@ -1,6 +1,3 @@
-# meteor-helpers-everywhere
-Use template helpers everywhere (template events, onCreated, onRendered, onDestroyed, JavaScript code)
-
 Meteor Helpers Everywhere
 =========================
 
